@@ -8,6 +8,11 @@ Install Gitlab
 wget https://raw.githubusercontent.com/bkhalifeh/minimal-script/main/install-gitlab.sh && chmod +x install-gitlab.sh && ./install-gitlab.sh &&‌ rm install-gitlab.sh
 ```
 
+Uninstall Gitlab
+```bash
+wget https://raw.githubusercontent.com/bkhalifeh/minimal-script/main/uninstall-gitlab.sh && chmod +x uninstall-gitlab.sh && ./uninstall-gitlab.sh &&‌ rm uninstall-gitlab.sh
+```
+
 Install Nginx
 ```bash
 wget https://raw.githubusercontent.com/bkhalifeh/minimal-script/main/install-nginx.sh && chmod +x install-nginx.sh && ./install-nginx.sh &&‌ rm install-nginx.sh
