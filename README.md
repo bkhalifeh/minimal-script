@@ -23,3 +23,8 @@ Add Swap
 ```bash
 wget https://raw.githubusercontent.com/bkhalifeh/minimal-script/main/add-swap.sh && chmod +x add-swap.sh && ./add-swap.sh && rm add-swap.sh
 ```
+
+Get SSL
+```bash
+wget https://raw.githubusercontent.com/bkhalifeh/minimal-script/main/get-ssl.sh && chmod +x get-ssl.sh && ./get-ssl.sh && get-ssl.sh
+```
