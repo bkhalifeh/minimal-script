@@ -5,5 +5,5 @@ echo "Enter your domain:"
 read domain
 curl https://get.acme.sh | sh -s email="$email"
 ~/.acme.sh/acme.sh --set-default-ca --server letsencrypt
-mkdir -p ~/domains/$domain/certs
-acme.sh --issue -d $domain --standalone -w ~/domains/$domain/certs
+apt-get install socat
+~/.acme.sh/acme.sh --issue -d $domain --standalone
