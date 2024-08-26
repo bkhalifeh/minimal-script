@@ -10,7 +10,7 @@ wget https://raw.githubusercontent.com/bkhalifeh/minimal-script/main/install-git
 
 Uninstall Gitlab
 ```bash
-wget https://raw.githubusercontent.com/bkhalifeh/minimal-script/main/uninstall-gitlab.sh && chmod +x uninstall-gitlab.sh && ./uninstall-gitlab.sh &&‌ rm uninstall-gitlab.sh
+wget https://raw.githubusercontent.com/bkhalifeh/minimal-script/main/uninstall-gitlab.sh && chmod +x uninstall-gitlab.sh && ./uninstall-gitlab.sh
 ```
 
 Install Nginx
