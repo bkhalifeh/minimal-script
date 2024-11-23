@@ -28,3 +28,7 @@ Get SSL
 ```bash
 wget https://raw.githubusercontent.com/bkhalifeh/minimal-script/main/get-ssl.sh && chmod +x get-ssl.sh && ./get-ssl.sh
 ```
+Setup Mail Server
+```bash
+wget https://raw.githubusercontent.com/bkhalifeh/minimal-script/main/setup-mailserver.sh && chmod +x setup-mailserver.sh && ./setup-mailserver.sh
+```
