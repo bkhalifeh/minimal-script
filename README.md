@@ -18,6 +18,10 @@ Install Nginx
 wget https://raw.githubusercontent.com/bkhalifeh/minimal-script/main/install-nginx.sh && chmod +x install-nginx.sh && ./install-nginx.sh &&‌ rm install-nginx.sh
 ```
 
+Install Jenkins
+```bash
+wget https://raw.githubusercontent.com/bkhalifeh/minimal-script/main/install-jenkins.sh && chmod +x install-jenkins.sh && ./install-jenkins.sh &&‌ rm install-jenkins.sh
+```
 
 Add Swap
 ```bash
