@@ -36,3 +36,7 @@ Setup Mail Server
 ```bash
 wget https://raw.githubusercontent.com/bkhalifeh/minimal-script/main/setup-mailserver.sh && chmod +x setup-mailserver.sh && ./setup-mailserver.sh
 ```
+Install btop
+```bash
+wget https://raw.githubusercontent.com/bkhalifeh/minimal-script/main/install-btop.sh && chmod +x install-btop.sh && ./install-btop.sh
+```
