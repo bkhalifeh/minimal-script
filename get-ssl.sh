@@ -10,4 +10,4 @@ if [ ! -f "$MARKER_FILE" ]; then
 fi
 echo "Enter your domain:"
 read domain
-~/.acme.sh/acme.sh --issue -d $domain --standalone
+~/.acme.sh/acme.sh --debug --issue --nginx --reloadcmd "nginx -s reload" -f -d $domain
